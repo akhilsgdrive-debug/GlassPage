@@ -1,0 +1,1 @@
+export default function Navbar(){return(<header style={{position:'fixed',top:0,width:'100%',padding:'20px',zIndex:100}}><div style={{display:'flex',justifyContent:'space-between',alignItems:'center',color:'white'}}><h2>INDOSOL SOLAR</h2><nav>Facility | Products | Technology | Contact</nav></div></header>)}
