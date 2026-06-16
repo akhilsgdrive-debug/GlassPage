@@ -1,0 +1,1 @@
+export default function Hero(){return(<section style={{minHeight:'100vh',display:'flex',alignItems:'center',justifyContent:'center',textAlign:'center'}}><div><h1 style={{fontSize:'64px'}}>SOLAR GLASS MANUFACTURING FACILITY</h1><p>3600 TPD capacity supporting 20 GW solar manufacturing.</p></div></section>)}
