@@ -1,1 +1,1 @@
-export default function Home(){ return <main>Indosol Solar Website Phase 1</main>}
+export default function Home(){return (<main style={{minHeight:'100vh',background:'#050A0E',color:'white',display:'flex',alignItems:'center',justifyContent:'center',fontFamily:'sans-serif'}}><div><h1>INDOSOL SOLAR</h1><p>Premium Solar Glass Manufacturing Facility</p></div></main>)}
